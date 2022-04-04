@@ -1,5 +1,6 @@
 ### Hey! I'm Brian, a second year Computer Science major at UC Irvine.  
 
+Reach me on [LinkedIn](https://www.linkedin.com/in/brian-lin-0840a0225/) or contact me by email at brian.n.lin@gmail.com.
 
 
 <!--
