@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! I'm Brian, a second year Computer Science major at UC Irvine.  
+
+
 
 <!--
 **briannlin/briannlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
