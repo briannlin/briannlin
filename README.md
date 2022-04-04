@@ -1,7 +1,9 @@
 ### Hey! I'm Brian, a second year Computer Science major at UC Irvine.  
 
+I'm interested in the areas of information and intelligent systems. I have experience in *Python*, *C++*, and *MIPS assembly*.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/brian-lin-0840a0225/) or contact me by email at brian.n.lin@gmail.com.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
